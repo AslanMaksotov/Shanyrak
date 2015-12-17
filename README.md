@@ -1,0 +1,2 @@
+# Shanyrak
+Shanyrak android application
